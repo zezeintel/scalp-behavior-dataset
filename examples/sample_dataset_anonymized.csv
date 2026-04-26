@@ -1,0 +1,11 @@
+participant_id,date,age_group,gender,ethnicity,follicle_density,oil_index,sensitivity_score,scalp_health_composite,stress_score,sleep_hours,sleep_quality,diet_type,water_intake_L,exercise_days_per_week,hair_wash_frequency,product_usage,location_type
+ZZ-001,2025-09-01,25-34,F,Malay,91,0.41,0.22,78,12,7.5,good,balanced,2.1,4,every_2_days,shampoo_only,urban
+ZZ-002,2025-09-01,35-44,M,Chinese,76,0.79,0.61,48,28,5.0,poor,high_processed,1.2,1,daily,shampoo_conditioner,urban
+ZZ-003,2025-09-01,18-24,F,Indian,88,0.55,0.34,67,18,6.5,fair,balanced,1.8,3,every_2_days,shampoo_conditioner,suburban
+ZZ-004,2025-09-02,45-54,M,Malay,63,0.91,0.78,32,35,4.0,poor,high_processed,0.9,0,daily,medicated_shampoo,urban
+ZZ-005,2025-09-02,25-34,F,Chinese,94,0.38,0.18,84,9,8.0,good,healthy,2.5,5,every_2_days,shampoo_only,suburban
+ZZ-006,2025-09-02,35-44,F,Malay,82,0.62,0.45,59,21,6.0,fair,balanced,1.5,2,every_2_days,shampoo_conditioner,urban
+ZZ-007,2025-09-03,18-24,M,Chinese,70,0.84,0.67,41,31,4.5,poor,high_processed,1.1,1,daily,dandruff_shampoo,urban
+ZZ-008,2025-09-03,25-34,F,Indian,89,0.44,0.25,75,14,7.0,good,healthy,2.3,4,every_2_days,shampoo_only,rural
+ZZ-009,2025-09-04,35-44,M,Malay,79,0.71,0.53,54,24,5.5,fair,balanced,1.4,2,every_2_days,shampoo_conditioner,suburban
+ZZ-010,2025-09-04,45-54,F,Chinese,95,0.35,0.15,88,8,8.5,good,healthy,2.8,6,every_2_days,shampoo_only,rural
